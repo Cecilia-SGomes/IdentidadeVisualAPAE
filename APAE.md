@@ -76,7 +76,7 @@ Essa issue tem como objetivo definir a identidade visual do site da APAE, inclui
 | **Textos de apoio** | Light | 14px | Mensagens explicativas, rodapés, rótulos. |
 | **Botões** | SemiBold | 16px | Todos os botões devem manter este peso e tamanho, com letras maiúsculas ou capitalizadas. |
 
-![Paleta de cores ](tipografia.PNG)
+![Tipografi ](tipografia.PNG)
 
 ### Em relação a tipográfia (Acessibilidade)
 
@@ -124,8 +124,8 @@ Essa issue tem como objetivo definir a identidade visual do site da APAE, inclui
 ### Botão com Ícone
 - Botão circular com fundo laranja e ícone branco (ex: lápis para editar)
 
----
 
+**Exemplos**
 
 ![Botões ](botões.PNG)
 
@@ -191,16 +191,3 @@ Sugerir que o site inclua uma funcionalidade de acessibilidade que permita:
 - Ou um modo com contraste reverso, muito útil para usuários com deficiência visual severa.
 
 Essa opção pode ser ativada com um botão flutuante (com ícone de acessibilidade ♿ ou olho 👁).
-
----
-
-### “Checklist de Acessibilidade Visual”
-
-| Elemento                                               | Verificado | Observações                         |
-|--------------------------------------------------------|------------|-------------------------------------|
-| Contraste mínimo 4.5:1 para textos                     | ✅         | Conforme WCAG 2.1                   |
-| Uso coerente de cores para hierarquia                  | ✅         | Azul escuro: primário               |
-| Alternativas visuais para mensagens de erro            | ✅         | Cores + texto                       |
-| Tipografia legível e escalável                         | ✅         | Fontes sem serifa                   |
-| Espaçamento adequado entre textos e elementos          | ✅         | 1.5 em parágrafos                   |
-V

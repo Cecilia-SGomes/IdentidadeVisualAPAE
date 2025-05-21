@@ -76,7 +76,7 @@ Essa issue tem como objetivo definir a identidade visual do site da APAE, inclui
 | **Textos de apoio** | Light | 14px | Mensagens explicativas, rodapés, rótulos. |
 | **Botões** | SemiBold | 16px | Todos os botões devem manter este peso e tamanho, com letras maiúsculas ou capitalizadas. |
 
-![Tipografi ](tipografia.PNG)
+![Tipografia ](tipografia.PNG)
 
 ### Em relação a tipográfia (Acessibilidade)
 
